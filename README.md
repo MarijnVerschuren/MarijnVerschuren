@@ -148,13 +148,6 @@
 >> This can alternatively be done by inlining like the gcc optimizer often does but this is not always an option.
 > </details>
 
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-H3 {
-    line-height: 5%;
-}
-</style>
-
 
 <!--
  TODO introduction
